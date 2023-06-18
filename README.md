@@ -7,7 +7,7 @@
 
 ##
 
-Eu sou um **Desenvolvedor Front-End Junior** autodidata altamente motivado, apaixonado por aprender e construir novos projetos!
+Eu sou um **Desenvolvedor Front-End** autodidata altamente motivado, apaixonado por aprender e construir novos projetos!
 <br>
 - 🖥 Trabalho com Front-End usando **ReactJS**, **TypeScript** e **NextJS**, dentre outras tecnologias.
 - ⚡ Gosto muito de desenvolver projetos diariamente para testar novas tecnologias e me tornar cada vez mais capacitado.
