@@ -10,7 +10,6 @@
 Eu sou um **Desenvolvedor Front-End Junior** autodidata altamente motivado, apaixonado por aprender e construir novos projetos!
 <br>
 - 🖥 Trabalho com Front-End usando **ReactJS**, **TypeScript** e **NextJS**, dentre outras tecnologias.
-- 📚 Estou aprendendo sobre testes unitários e de integração com **Vitest** e pretendo me tornar Full-Stack Developer futuramente.
 - ⚡ Gosto muito de desenvolver projetos diariamente para testar novas tecnologias e me tornar cada vez mais capacitado.
 <br>
 
@@ -24,9 +23,3 @@ Eu sou um **Desenvolvedor Front-End Junior** autodidata altamente motivado, apai
   <img align="center" alt="NextJS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 </div>
   
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/pablo-roscoche/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
