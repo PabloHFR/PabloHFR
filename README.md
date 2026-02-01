@@ -1,25 +1,43 @@
-<h1 align="center">Olá, eu sou o Pablo! 👋</h1>
+<h1 align="center">Olá, eu sou o Pablo 👋</h1>
 
-<div style="display: flex" align="center">
-<img align="center" height="180em" src="https://readmestats.999857.xyz/api?username=pablohfr&theme=dracula">
-<img align="center" height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=pablohfr&layout=compact&theme=dracula">
-</div><br>
+<p align="center">
+Desenvolvedor <strong>Full-Stack</strong> com foco crescente em backend, arquitetura de software e sistemas distribuídos.
+</p>
 
-##
+---
 
-Eu sou um **Desenvolvedor Front-End** autodidata altamente motivado, apaixonado por aprender e construir novos projetos!
-<br>
-- 🖥 Trabalho com Front-End usando **ReactJS**, **TypeScript** e **NextJS**, dentre outras tecnologias.
-- ⚡ Gosto muito de desenvolver projetos diariamente para testar novas tecnologias e me tornar cada vez mais capacitado.
-<br>
+### 👨‍💻 Sobre mim
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-</div>
-  
+Sou desenvolvedor desde 2022, aprendendo e evoluindo por meio de projetos reais, freelances e desafios técnicos.  
+Tenho experiência prática construindo aplicações web completas, do frontend ao backend, com autenticação, mensageria, notificações em tempo real e arquitetura de microsserviços.
+
+Atualmente, meu foco está em:
+- **Backend com Node.js / NestJS**
+- **Arquitetura de software**
+- **Microsserviços e comunicação assíncrona**
+- **Boas práticas, testes e documentação**
+
+Gosto de entender **o porquê das decisões técnicas**, os trade-offs envolvidos e como sistemas se comportam em cenários mais próximos de produção.
+
+---
+
+### 🧠 Principais Tecnologias
+
+**Backend**
+- Node.js, NestJS, Express
+- PostgreSQL, MongoDB
+- RabbitMQ, WebSockets (Socket.IO)
+- REST APIs, JWT, Swagger
+
+**Frontend**
+- React, Next.js, TypeScript
+- TanStack Query & Router
+- Tailwind CSS, shadcn/ui
+
+**DevOps & Qualidade**
+- Docker, Docker Compose
+- Monorepo com Turborepo
+- GitHub Actions (CI/CD)
+- Testes automatizados
+
+
